@@ -1,5 +1,5 @@
 
-QuickChat Project Logo  
+## QuickChat 
 
 For collaboration and access to project files, please contact me via email at [deependra04trivedi@gmail.com] to request access to the private repository.  
 
