@@ -53,7 +53,25 @@ Database: PostgreSQL
    - Ensures privacy and security with reliable communication protocols.  
 
 8. Responsive Design:  
-   - Fully optimized for various devices, including desktops, tablets, and smartphones.  
+   - Fully optimized for various devices, including desktops, tablets, and smartphones.
+  
+
+<img src="https://drive.google.com/uc?export=view&id=1xhoUk4XvOi6RiUnaqsn7kxeKmp_vjkNr">
+
+<img src="https://drive.google.com/uc?export=view&id=1IM9CJG4kqEjBp1uI39x3zuHi9LJ3zfcm">
+
+<img src="https://drive.google.com/uc?export=view&id=1cCCunj2oCrSNsgL_39I6xI_FWCrziE5l">
+
+<img src="https://drive.google.com/uc?export=view&id=1sybZ30CPvxqFbgkXKSA57CLSPIlRYGEl">
+
+<img src="https://drive.google.com/uc?export=view&id=1TTw1UxhKHKKRgU4RZ-WQBVRRxd9paaaM">
+
+<img src="https://drive.google.com/uc?export=view&id=1K7-WopDhCoFkzonTWzYZrwlsS9OeZ78p">
+
+<img src="https://drive.google.com/uc?export=view&id=1IT5J8Ca4TJfBlf95Dg1Za3y-FCqHr6Pt">
+
+<img src="https://drive.google.com/uc?export=view&id=1OuRDn7VcpAn371ynCkCYh-QwK1vqWdsR">
+
 
 
 
